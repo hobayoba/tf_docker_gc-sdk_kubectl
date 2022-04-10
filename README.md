@@ -2,8 +2,3 @@
 
 designed to run terraform\docker\gcloud\kubectl for any kind of deployments
 
-### Build
-
-```
-
-```
